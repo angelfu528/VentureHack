@@ -35,3 +35,5 @@ VC and startups have always been a hot topic in the valley, and the community it
 * Whether dot.com bubble might happen again soon, because more VCs are emerging and companies seem to go public before they are ready.
 
 * Whether startups that went through incubators are more successful.
+
+For more information about this project, please visit the wiki page! 
