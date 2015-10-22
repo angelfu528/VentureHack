@@ -6,8 +6,19 @@ the trends in Angel Investors and VCs based on the sectors as well as stages the
 
 If you would like to learn more about this project, feel free to browse the wiki page! 
 
+### FILES
 
-### Packages used
+#### Data 
+* angelInvestments.R: Investment trends for Angel Investors
+* industryOverview.R: Trends on sectors that investors usually invest in and on exits including both IPO and M&A
+* VC Investments.R: Investment trends for Angel Investors
+* leagueTable.R: The correlation between high valued/successful startups and participating in incubaros.
+
+#### Images
+* I plotted many different graphs to help support my analysis in this project. If you woud like to look at the analysis in a more visualized way, please check out the **Images** folder. 
+
+
+### PACKAGES USED
 * ggplot 2
 * knitr
 * xts
